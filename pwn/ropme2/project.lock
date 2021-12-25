@@ -1,9 +1,9 @@
 #Ghidra Lock File
-#Fri Dec 24 23:26:09 IST 2021
+#Sat Dec 25 11:41:52 IST 2021
 OS\ Name=Linux
 OS\ Version=5.14.0-9parrot1-amd64
 Username=sanjay
 Hostname=parrot
 <META>\ Supports\ File\ Channel\ Locking=Channel Lock
 OS\ Architecture=amd64
-Timestamp=12/24/21, 11\:26 PM
+Timestamp=12/25/21, 11\:41 AM
